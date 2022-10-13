@@ -1,12 +1,1 @@
-# 0x04. Loops, conditions and parsing
-
-**Topics**
-* DevOps
-* Shell
-* Bash
-* Scripting
-
-*TASKS*
-
-
-
+# readme for 0x04
