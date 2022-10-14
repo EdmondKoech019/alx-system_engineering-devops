@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Bash script that displays a list of currently running processes
-ps aufx | grep bash
+# This script displays lines containing bash in running processes
+# shellcheck disable=SC2009
+ps -auxf | grep bash
